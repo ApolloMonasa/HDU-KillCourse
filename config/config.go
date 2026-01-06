@@ -126,7 +126,7 @@ var DefaultConfig = `{
         "to": "...@qq.com",
         "enabled": "0"
     },
-    "start_time": "2024-07-25 12:00:00"
+    "start_time": "2026-01-08 13:00:00"
 }`
 
 // LoadConfig 加载配置文件  用于在线编辑配置
